@@ -3,9 +3,9 @@ def display_board
  cell = ' | | '
 divider = "------------"
   print cell
-  print divider
+  puts divider
   print cell
-  print divider
+  puts divider
   print cell
 
 end
