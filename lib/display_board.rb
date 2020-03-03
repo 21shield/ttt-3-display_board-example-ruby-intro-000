@@ -5,6 +5,7 @@ divider = "------------"
   print cell
   print divider
   print cell
-
+  print divider
+  print cell
 
 end
