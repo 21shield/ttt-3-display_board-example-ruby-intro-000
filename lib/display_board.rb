@@ -1,9 +1,8 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Boa
 def display_board
-  print ' | | '
+  print cell = ' | | '
   print------------
-  print " | | "
-  print------------
-  print " | | "
+  print cell.times(3)
+
 
 end
